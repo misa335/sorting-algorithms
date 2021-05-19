@@ -10,4 +10,4 @@ const mergeSort = arr => {
   });
 };
 
-console.log(mergeSort([3, 5, 6, 2, 1, 4]));
+console.log('merge', mergeSort([3, 5, 6, 2, 1, 4]));
